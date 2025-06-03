@@ -49,19 +49,8 @@ os monstros representam diferentes tipos de descuidados com a higiene, e o heró
 - ✅ detalhes dos mapas
 - ✅ estruturas das fases
 - ✅ visual dos inimigos, HUD e batalhas
-- 🧩 em implementação: efeitos visuais, sons e músicas
-- 🧩 em implementação: desenvolvimento da história
-- 🧩 em implementação: npcs e diálogos
-- ⚠️ em construção: menu inicial funcional
-- ⚠️ em construção: batalha final do boss
-- ⚠️ em construção: implementação online
-
-## 🤝 contribuições
-ideias, melhorias e feedbacks são muito bem-vindos!
-sinta-se livre para abrir uma issue ou mandar um pull request. 🚀
-
-## 📜 licença
-este projeto é livre para uso acadêmico e educativo.
-cite a fonte se for reaproveitar o código.
-
-por: @guifigueireedo em todas as redes sociais
+- ✅ em implementação: efeitos visuais, sons e músicas
+- ✅ em implementação: desenvolvimento da história
+- ✅ em implementação: npcs e diálogos
+- ✅ em construção: menu inicial funcional
+- ✅ em construção: batalha final do boss
